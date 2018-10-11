@@ -1,5 +1,5 @@
-# Markétina školka - Lekce 1
-**Téma: Git, GitHub, clonování, první commit**
+# Markétina školka - Lekce 2
+**Téma: Git, GitHub, clonování, druhý commit**
 
 ## Zadání
-Tento repozitář si naklonuj do svého počítače, oprav tento překlep a commitni opravu zpět na GitHub.
+Tento repozitář si naklonuj do svého počítače, oprav tento drururuhý překlep a commitni opravu zpět na GitHub.
