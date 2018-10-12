@@ -1,5 +1,8 @@
-# Markétina školka - Lekce 2
-**Téma: Git, GitHub, clonování, druhý commit**
+# Markétina školka - Lekce 3
+**Téma: větve a Merge**
 
 ## Zadání
-Tento repozitář si naklonuj do svého počítače, oprav tento druhý překlep a commitni opravu zpět na GitHub.
+V tomto díle si ukážeme, jak dělat v Gitu větve a jak je potom spojit. Výsledek
+by měl být stejný, jaký je nyní vidět v historii commitů tohoto úkolu (zobrazuje
+se pouze na počítači třeba v aplikaci `Fork`, bohužel na `GitHubu` nikoliv).
+
