@@ -1,24 +1,15 @@
-# Markétina školka - Lekce 3
+# Markétina školka - Lekce 4
 **Téma: větve a Merge**
 
 _Návod je uzpůsoben pro Git GUI aplikaci [Fork](https://git-fork.com/)_
 
 ## Zadání
-V tomto díle si ukážeme, jak dělat v Gitu větve a jak je potom spojit. Výsledek
-by měl být stejný, jaký je nyní vidět v historii commitů tohoto úkolu (zobrazuje
-se pouze na počítači třeba v aplikaci `Fork`, bohužel na `GitHubu` nikoliv).
+Tento úkol bude velmi podobný, jako předchozí. Ale s tím rozdílem, že nyní bude
+tvůj úkol větve nejev vytvářet, ale přepínat se mezi nimi.
 
-### Postup vytvoření větve
-- Uprav soubor (jakkoliv – možná tu najdeš zase nějaký překlep…).
-- V aplikaci `Fork` si vytvoř novou větev - na názvu nezáleží (názvy větví jsou
-technické, běžně se píšou malými písmeny, bez mezer a bez diakritiky, např.:
-`marketa-lesson-3`. V okně pro vytvoření větve nech zaškrnuté `Check out after create`,
-aby se ta větev stala aktuální větví.
-- Commitni změnu. Commit se vždy zapisuje do aktuální větve.
+## Část první
+Vytvoř si novou větev. V ní proveď jeden commit. Třeba oprav **tento přelkep**.
 
-Větev `master` zůstane v původním stavu. V levém menu je seznam větví. Poklepáním
-na větev se do dané větve přepneš – čímž se změní obsah tvého pracovního adresáře.
-Zkus si to.
 
 ### Postup spojení větví
 Na začátku jedna důležitá, byť trochu matoucí informace: Při spojování větví je
