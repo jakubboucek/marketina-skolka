@@ -9,28 +9,28 @@ by měl být stejný, jaký je nyní vidět v historii commitů tohoto úkolu (z
 se pouze na počítači třeba v aplikaci `Fork`, bohužel na `GitHubu` nikoliv).
 
 ### Postup vytvoření větve
-- Uprav soubor (jakkoliv – možná tu nejdeš zase nějaký překlep…).
-- V aplikaci `Fork` si vytvoš novou větev - na názvu nezáleží (názvy větví jsou
-technické, bežně se píšou malými písmeny, bez mezer a bez diakritiky, např.:
+- Uprav soubor (jakkoliv – možná tu najdeš zase nějaký překlep…).
+- V aplikaci `Fork` si vytvoř novou větev - na názvu nezáleží (názvy větví jsou
+technické, běžně se píšou malými písmeny, bez mezer a bez diakritiky, např.:
 `marketa-lesson-3`. V okně pro vytvoření větve nech zaškrnuté `Check out after create`,
 aby se ta větev stala aktuální větví.
 - Commitni změnu. Commit se vždy zapisuje do aktuální větve.
 
 Větev `master` zůstane v původním stavu. V levém menu je seznam větví. Poklepáním
-na vetem se do dané větve přepneš – čím se změní obsah tvého pracovního aresáře.
+na větev se do dané větve přepneš – čímž se změní obsah tvého pracovního adresáře.
 Zkus si to.
 
 ### Postup spojení větví
 Na začátku jedna důležitá, byť trochu matoucí informace: Při spojování větví je
-rozhodující, která větev je aktuální. Git totiž **dovoluje upravovat pouze autální
+rozhodující, která větev je aktuální. Git totiž **dovoluje upravovat pouze aktuální
 větev**.
 
 Mergování „spojuje dvě větve“, takže by se mohlo zdát, že na tom nezáleží. Jenže
-právě pojem „spojení dvou větví“ je mepřesný – ve skutečnosti dochází ke „zanesení
+právě pojem „spojení dvou větví“ je nepřesný – ve skutečnosti dochází k „zanesení
 změn z jedné větve **do** jiné větve“. 
 
 V příkladu výše sis dříve vytvořila větev `marketa-lesson-3`, která je „tvoje“.
-Nyní chceš změny ze své větve dostat do větve `master`. Z toho vyplývá že změny
+Nyní chceš změny ze své větve dostat do větve `master`. Z toho vyplývá, že změny
 budou probíhat ve větvi `master`. 
 
 Snad jsem tímto srozumitelně popsal, proč je tedy před zahájením Merge potřeba
