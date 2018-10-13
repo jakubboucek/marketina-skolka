@@ -22,15 +22,15 @@ Zkus si to.
 
 ### Postup spojení větví
 Na začátku jedna důležitá, byť trochu matoucí informace: Při spojování větví je
-rozhodující, která větev je aktuální. Git totiž **dovoluje upravovat pouze autální
+rozhodující, která větev je aktuální. Git totiž **dovoluje upravovat pouze aktuální
 větev**.
 
 Mergování „spojuje dvě větve“, takže by se mohlo zdát, že na tom nezáleží. Jenže
-právě pojem „spojení dvou větví“ je mepřesný – ve skutečnosti dochází ke „zanesení
+právě pojem „spojení dvou větví“ je nepřesný – ve skutečnosti dochází k „zanesení
 změn z jedné větve **do** jiné větve“. 
 
 V příkladu výše sis dříve vytvořila větev `marketa-lesson-3`, která je „tvoje“.
-Nyní chceš změny ze své větve dostat do větve `master`. Z toho vyplývá že změny
+Nyní chceš změny ze své větve dostat do větve `master`. Z toho vyplývá, že změny
 budou probíhat ve větvi `master`. 
 
 Snad jsem tímto srozumitelně popsal, proč je tedy před zahájením Merge potřeba
