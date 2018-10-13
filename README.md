@@ -20,31 +20,17 @@ Větev `master` zůstane v původním stavu. V levém menu je seznam větví. Po
 na větev se do dané větve přepneš – čímž se změní obsah tvého pracovního adresáře.
 Zkus si to.
 
-### Postup spojení větví
-Na začátku jedna důležitá, byť trochu matoucí informace: Při spojování větví je
-rozhodující, která větev je aktuální. Git totiž **dovoluje upravovat pouze aktuální
-větev**.
+## Část druhá
+Přepni se zpět na `master`. Tím se provedené změny v pracovním adresáři vrátí
+zpět. V této fázi proveď změnu v souboru - třeba oprav **durhý překlep**.
 
-Mergování „spojuje dvě větve“, takže by se mohlo zdát, že na tom nezáleží. Jenže
-právě pojem „spojení dvou větví“ je nepřesný – ve skutečnosti dochází k „zanesení
-změn z jedné větve **do** jiné větve“. 
+**POZOR: V každé části dělej změnu pouze v místě, kde ti píšu.**
 
-V příkladu výše sis dříve vytvořila větev `marketa-lesson-3`, která je „tvoje“.
-Nyní chceš změny ze své větve dostat do větve `master`. Z toho vyplývá, že změny
-budou probíhat ve větvi `master`. 
+## Spojení větví
+Můžeš si mezi větvemi přepínat - v pracovním adresáři se ti bude měnit obsah
+souborů.
 
-Snad jsem tímto srozumitelně popsal, proč je tedy před zahájením Merge potřeba
-přepnout se nejdříve do větve `master` (= větev `master` bude aktuální).
-
-- Přepni se do větve `master`,
-- Vlevo v menu klikni pravým myšítkem na tvoji větev a zvol `Merge into master…`,
-
-Tím se vytvoří nový commit, který spojuje tvoji větev a `master`.
-
-Nyní se změny z tvojí větve promítly do `masteru`.
-
-Nyní můžeš tu svoji větev smazat. 
-
-Výsledek Pushni na server, **úkol je tím hotov**.  
+Nakonec proveď spojení větví. V historii commitů by měly být vidět stejná 
+„bublinka“, jako z Lesson 3 – jen se kuličky objeví na obou stranách. 
 
 Kdybys narazila na jakékoliv nejasnosti, ozvi se.
