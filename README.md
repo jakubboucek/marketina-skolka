@@ -8,7 +8,7 @@ Tento úkol bude velmi podobný, jako předchozí. Ale s tím rozdílem, že nyn
 tvůj úkol větve nejev vytvářet, ale přepínat se mezi nimi.
 
 ## Část první
-Vytvoř si novou větev. V ní proveď jeden commit. Třeba oprav **tento přelkep**.
+Vytvoř si novou větev. V ní proveď jeden commit. Třeba oprav **tento překlep**.
 
 
 ## Část druhá
