@@ -13,7 +13,7 @@ Vytvoř si novou větev. V ní proveď jeden commit. Třeba oprav **tento přelk
 
 ## Část druhá
 Přepni se zpět na `master`. Tím se provedené změny v pracovním adresáři vrátí
-zpět. V této fázi proveď změnu v souboru - třeba oprav **durhý překlep**.
+zpět. V této fázi proveď změnu v souboru - třeba oprav **druhý překlep**.
 
 **POZOR: V každé části dělej změnu pouze v místě, kde ti píšu.**
 
