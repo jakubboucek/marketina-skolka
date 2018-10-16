@@ -22,6 +22,6 @@ Můžeš si mezi větvemi přepínat - v pracovním adresáři se ti bude měnit
 souborů.
 
 Nakonec proveď spojení větví. V historii commitů by měly být vidět stejná 
-„bublinka“, jako z Lesson 3 – jen se kuličky objeví na obou stranách. 
+„bublinka“, jako z Lesson 3 – jen se kuličky objeví na obou větvích. 
 
 Kdybys narazila na jakékoliv nejasnosti, ozvi se.
