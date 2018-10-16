@@ -1,7 +1,7 @@
 # Markétina školka - Lekce 5
 **Téma: větve a konflikty**
 
-_Návod je uzpůsoben pro Git GUI aplikaci [Fork](https://git-fork.com/)_
+_Tutoriál je uzpůsoben pro Git GUI aplikaci [Fork](https://git-fork.com/)_
 
 ## Zadání
 Tento úkol bude velmi podobný, jako předchozí. Ale s tím rozdílem, že nyní bude
