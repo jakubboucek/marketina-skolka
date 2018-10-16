@@ -21,7 +21,7 @@ zpět. V této fázi proveď změnu v souboru - třeba oprav **druhý překlep**
 Můžeš si mezi větvemi přepínat - v pracovním adresáři se ti bude měnit obsah
 souborů.
 
-Nakonec proveď spojení větví. V historii commitů by měly být vidět stejná 
+Na závěr proveď spojení větví. V historii commitů by měly být vidět stejná 
 „bublinka“, jako z Lesson 3 – jen se kuličky objeví na obou větvích. 
 
 Kdybys narazila na jakékoliv nejasnosti, ozvi se.
