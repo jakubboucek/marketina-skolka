@@ -1,5 +1,5 @@
-# Markétina školka - Lekce 4
-**Téma: větve a Merge**
+# Markétina školka - Lekce 5
+**Téma: větve a konflikty**
 
 _Návod je uzpůsoben pro Git GUI aplikaci [Fork](https://git-fork.com/)_
 
@@ -7,21 +7,4 @@ _Návod je uzpůsoben pro Git GUI aplikaci [Fork](https://git-fork.com/)_
 Tento úkol bude velmi podobný, jako předchozí. Ale s tím rozdílem, že nyní bude
 tvůj úkol větve nejev vytvářet, ale přepínat se mezi nimi.
 
-## Část první
-Vytvoř si novou větev. V ní proveď jeden commit. Třeba oprav **tento překlep**.
-
-
-## Část druhá
-Přepni se zpět na `master`. Tím se provedené změny v pracovním adresáři vrátí
-zpět. V této fázi proveď změnu v souboru - třeba oprav **druhý překlep**.
-
-**POZOR: V každé části dělej změnu pouze v místě, kde ti píšu.**
-
-## Spojení větví
-Můžeš si mezi větvemi přepínat - v pracovním adresáři se ti bude měnit obsah
-souborů.
-
-Nakonec proveď spojení větví. V historii commitů by měly být vidět stejná 
-„bublinka“, jako z Lesson 3 – jen se kuličky objeví na obou stranách. 
-
-Kdybys narazila na jakékoliv nejasnosti, ozvi se.
+Nyní ale bude docházet k uměle vytvořeným konfliktům.
