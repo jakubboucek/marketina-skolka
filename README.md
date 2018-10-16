@@ -1,5 +1,5 @@
-# Markétina školka - Lekce 4
-**Téma: větve a Merge**
+# Markétina školka - Lekce 5
+**Téma: větve a conflicty**
 
 _Návod je uzpůsoben pro Git GUI aplikaci [Fork](https://git-fork.com/)_
 
