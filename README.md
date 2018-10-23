@@ -1,7 +1,7 @@
 # Markétina školka - Lekce 6
 **Téma: Pull request**
 
-_Tutoriál je uzpůsoben pro Git GUI aplikaci [Fork](https://git-fork.com/)_
+_Tutoriál je uzpůsoben pro Git GUI aplikaci [Fork](https://git-fork.com/)._
 
 Git, respektive GitHub (a další podobné služby: [BitBucket](https://bitbucket.org) i [GitLab](https://gitlab.com/)),
 poskytují mechanismus na „nabídnutí úprav“. Jmenuje se to **Pull request** (zkratka `PR`).
